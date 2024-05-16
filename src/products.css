@@ -1,0 +1,94 @@
+.details{
+    display: flex !important;
+    margin-left: 5%;
+}
+.nested-lists{
+    position: fixed;
+    height: 380px;
+    overflow: scroll;
+    margin-left: 70% !important;
+    border-radius: 5px;
+    width: 25%;
+    background-color:rgba(24, 68, 158);
+    color: white;
+}
+.header{
+    margin-left: 8px !important;
+    margin-bottom: -5px !important;
+    padding: 10px;
+    text-align: center;
+    width: 24%;
+    background-color: rgb(240, 174, 34);
+    color: black;
+}
+.nested{
+    align-items: flex-start !important;
+    background-color:rgba(240, 175, 34)  !important;
+    color: black !important;
+    border-bottom: 2px solid rgba(24, 68, 158) !important;
+}
+h1{
+    width: 72%;
+    border-radius: 5px;
+    padding: 5px;
+    font-size: 25px;
+    background-color: rgba(24, 68, 158);
+    color: rgb(255, 247, 4);;
+    margin-bottom: 10px;
+    text-align: center;
+}
+h2{
+    color: rgba(24, 68, 158);
+}
+.products{
+    padding: 10px;
+    margin-top: -25px;
+}
+.product-description{
+    display: flex;
+    flex-direction: column;
+    margin-left: 10px;
+    margin-top: -20px;
+    width: 70%;
+    align-items: first baseline;
+    justify-content: center;
+}
+.product-des{
+    margin-top: 20px;
+    margin-left: 2%;
+}
+.products-brief{
+    display: flex;
+    width: 69.3%;
+    background-color:white ;
+    color:black ;
+    margin-bottom: 10px;
+    padding: 20px;
+}
+.nailimg{
+    object-fit: contain;
+    margin-top: -20px;
+    width: 200px;
+    height: 250px;
+}
+.boxs{
+    margin-left: -5%;
+    padding: 10px;
+}
+table{
+    margin-left: 10px;
+    padding: 10px;
+}
+table,th,td{
+    border-collapse: collapse;
+    border: 1px solid black;
+}
+p{
+    margin-top: 0%;
+}
+th{
+    color: rgba(24, 68, 158);
+}
+tr{
+    text-align: left;
+}

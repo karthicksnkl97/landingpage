@@ -1,0 +1,179 @@
+@media screen and (max-width : 330px) {
+    .home{
+      display: flex;
+      flex-direction: column;
+      margin-top: 90%;
+      margin-left: -10%;
+    }
+    .navbar{
+        display: flex;
+        flex-direction: column;
+        height: 310px;
+        width: 620px !important;
+    }
+    ul{
+        display: flex;
+        flex-direction: column;
+        margin-top: -60%;
+       margin-left: -20%;
+        width: 100%;
+    }
+    .des{
+        margin-left: 20%;
+        height: 300px;
+        width: 530px;
+      }
+      .para{
+        margin-top: -10px;
+        padding: 20px;
+      }
+      .bottom-description{
+        width: 500px !important;
+        margin-left: 7% !important;
+        margin-top: 30px;
+      }
+      .contact-details{
+        width: 450px;
+        margin-left: 10%;
+        margin-bottom: 20px;
+      }
+      .btn-cancel{
+        width: 100px;
+        margin-left: -50%;
+      }
+      .quick-details{
+        margin-left: 10%;
+        width: 450px !important;
+      }
+      .bottom-borders{
+margin-top: 20px;
+      }
+      .about-details{
+        width: 580px !important;
+        height: 600px;
+        margin-left: -5%;
+        font-size: 20px;
+      }
+    .about-brief{
+    width: 120px !important;
+    margin-left: -10% !important; 
+    font-size: 10px !important;
+    padding: 20px;
+
+    }
+    .bottom-border{
+        margin-top: -90%;
+        margin-left: -9%;
+    }
+    .contact-form{
+      display: flex;
+      flex-direction: column;
+      margin-top: 100%;
+    }
+    .navbar{
+      width: 530px;
+    }
+    .logo{
+      margin-top: -20px;
+      width: 550px;
+    }
+    .cover{
+      width: 550px !important;
+      margin-top: 10px;
+      margin-left: 20%;
+      margin-bottom: 10px;
+    }
+    .details{
+    margin-top: 100%;
+    }
+    .nested-lists{
+        display: none;
+    }
+    .products-brief{
+        width: 480px;
+    }
+    h1{
+        margin-left: 10%;
+    }
+    .verticalbar{
+        display: none;
+    }
+  }
+  @media screen and (max-width : 380px) {
+    .cover{
+        width: 300px;
+    }
+    .des{
+        margin-left: 15%;
+    }
+    .bottom-description{
+        width: 190%;
+    }
+    .about-details{
+        width: 150% !important;
+    }
+    .para{
+        margin-left: 3%;
+    }
+  }
+
+  @media screen and (max-width : 430px) {
+
+    .bottom-description{
+        width: 170%;
+  }
+  .bottom-borders{
+    width: 200% !important;
+    height: 100px !important;
+  }
+  .about-brief{
+    width: 550px !important;
+    margin-left: -10px;
+    height: 100px !important;
+  }
+}
+
+  @media screen and (max-width : 780px) {
+.cover{
+    margin-left: 15%;
+    width: 400px;
+    height: 400px;
+}
+.des{
+    margin-left: 10%;
+    height: 240px;
+}
+.para{
+    font-size: 14px;
+}
+.bottom-description{
+    margin-left: 13%;
+}
+.bottom-border{
+    margin-left: 10%;
+}
+.bottom-borders{
+    margin-left: 1%;
+}
+.contact-details{
+    margin-left: -8%;
+}
+.quick-details{
+    width: 300px;
+    
+}
+.about-details{
+    height: 600px;
+}
+.about-brief{
+    font-size: 15px;
+    width: 400px;
+    
+}
+.quick-contact{
+    width: 300px;
+}
+form{
+    width: 400px;
+}
+  }
