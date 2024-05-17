@@ -15,7 +15,7 @@ return(
         </div>
         <div className="des">
             <h2 className="para">welcome to our website</h2>
-            <p className="para">"Welcome to the Wire Nail website, your premier destination for all things nails! Whether you're a professional contractor, a handy homeowner, or a passionate DIYer, we've got you covered with our extensive selection of high-quality wire nails. Explore our range of sizes, materials, and finishes, perfect for any project, big or small. With Wire Nail, you can trust that every nail will drive your projects forward with strength and precision. Start browsing now and let's nail it together!"</p>
+            <p className="paras">"Welcome to the Wire Nail website, your premier destination for all things nails! Whether you're a professional contractor, a handy homeowner, or a passionate DIYer, we've got you covered with our extensive selection of high-quality wire nails. Explore our range of sizes, materials, and finishes, perfect for any project, big or small. With Wire Nail, you can trust that every nail will drive your projects forward with strength and precision. Start browsing now and let's nail it together!"</p>
         </div>
     </div>
     <div className="bottom-description">
