@@ -1,6 +1,7 @@
 body{
   background-color:whitesmoke;
-  margin-top: 70px;
+  margin-top: 80px;
+  overflow-x: hidden;
 }
 .contact{
   color: black;
@@ -63,7 +64,8 @@ button{
   border: none;
 }
 .quick-details{
-  margin-left: 2%;
+  margin-top: 4%;
+  margin-left: 8%;
   background-color:rgba(240, 175, 34, 0.1) ;
  padding: 5px;
  width: 400px;
@@ -97,9 +99,9 @@ button{
 }
 .about-details{
   margin-top: 70px;
-margin-left: 10%;
+margin-left: 8%;
 background-color:rgba(240, 175, 34, 0.1) ;
-width: 80%;
+width: 85%;
 padding: 20px;
 }
 .about-header{
@@ -109,21 +111,24 @@ height: 350px;
 }
 .about-brief{
   margin-top: 50px;
-  width: 700px;
+  width: 200%;
 }
 .des{
+  margin-top: 2%;
   margin-left: 5%;
-  padding: 40px;
-  height: 400px;
-  width: 30rem;
+  padding: 10px;
+  height: 350px;
+  width: 26rem;
   margin-bottom: 5px !important;
   background-color:rgba(240, 175, 34, 0.1) ;
 }
 .bottom-border{
+  width: 100%;
   margin-top: -50px;
 }
 .bottom-borders{
-  margin-top: -50px;
+  width: 100%;
+  margin-top: -30px;
   margin-left: 2%;
   margin-bottom: 15px;
 }
@@ -133,7 +138,8 @@ height: 350px;
   color: whitesmoke ;
   margin-left: 6%;
   margin-top: -60px;
-  width: 87%;
+  margin-bottom: 100px !important;
+  width: 85%;
 }
 .bottom-header{
   color: rgba(24, 68, 158);
@@ -144,13 +150,14 @@ height: 350px;
 
 .paras{
   margin-top: -2rem;
-  font-size: 18px;
+  font-size: 16px;
   margin-left: 5%;
   padding: 20px;
   width: 350px;
   text-transform: capitalize;
 }
 .para{
+  text-align: center;
   font-size: 22px !important;
   margin-left: 5%;
   padding: 20px;
@@ -158,11 +165,12 @@ height: 350px;
   text-transform: capitalize;
 }
 .cover{
-  margin-top: -60px;
+  margin-top: -10px;
   object-fit: contain !important;
-  width: 800px;
-  height: 600px;
-  margin-left: 6%;
+  width: 680px;
+  height: 450px;
+  margin-left: 2%;
+  margin-bottom: 5%;
 
 }
 .navbar{
